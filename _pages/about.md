@@ -31,7 +31,7 @@ His current research interests focus on Computer Vision and its application in M
 - **Z. Zhao**, T. An, B. Lao, "VLBI network simulator: an integrated simulation tool for radio astronomers", Journal of The Korean Astronomical Society, vol. 52, no. 5, pp. 207-216, 2019.
 
 ## Interesting Demos
-- VLBI simulator, 2018
-- Medical Sensor Monitoring Via BLE, 2016
-- Air War Game with Kinect, 2016
-- Unity - Remote Healthcare monitoring, 2015
+- [VLBI simulator](https://zhenzhao.github.io/posts/2017/11/demos-vlbi-sim/), 2018
+- [Medical Sensor Monitoring Via BLE](https://zhenzhao.github.io/posts/2016/08/ble-sensor-android/), 2016
+- [Air War Game with Kinect](https://zhenzhao.github.io/posts/2016/04/air-war-kinect/), 2016
+- [Unity - Remote Healthcare monitoring](https://zhenzhao.github.io/posts/2015/10/unity-healthcare-monitoring/), 2015

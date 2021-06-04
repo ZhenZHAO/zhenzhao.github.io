@@ -48,12 +48,12 @@ a detailed paper is available at http://cn.arxiv.org/abs/1808.06726
 
 Main GUI
 
-![soft_gui](zhenzhao.github.io/files/demos/vlbi/soft_gui.png)
+![soft_gui](/files/demos/vlbi/soft_gui.png)
 
 Database
 
-![soft_gui](zhenzhao.github.io/files/demos/vlbi/ui_db.png)
+![soft_gui](/files/demos/vlbi/ui_db.png)
 
 Calculator
 
-![soft_gui](zhenzhao.github.io/files/demos/vlbi/ui_cal.png)
+![soft_gui](/files/demos/vlbi/ui_cal.png)
