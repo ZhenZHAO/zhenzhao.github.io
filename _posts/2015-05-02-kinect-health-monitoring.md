@@ -13,7 +13,7 @@ Physical Therapy today is not as efficient as people expect it to be, which is p
 
 ### Function Description
 
-A simple detailed description about this demo could be found [here](/files/demos/health_kinect/UserGuideKinect.pdf). This kinect demo is based on following libs: *Kinect SDK 1.8*, *OpenCV*, *Qt 4.8*, *C++11*. And, The basic layout is shown as below:
+A simple detailed description about this demo could be found [here](zhenzhao.github.io/files/demos/health_kinect/UserGuideKinect.pdf). This kinect demo is based on following libs: *Kinect SDK 1.8*, *OpenCV*, *Qt 4.8*, *C++11*. And, The basic layout is shown as below:
 
 <iframe width="320" height="240" src="/files/demos/health_kinect/kinect-healthcare1.gif" frameborder="0"></iframe>
 
