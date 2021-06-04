@@ -7,6 +7,8 @@ tags:
   - demos
 
 ---
+To develop an integrated VLBI simulator, named VNSIM, for the VLBI research community. 
+This work is initially motivated by the demand of the East Asia VLBI Networks and can also be expandable to other VLBI networks and generic interferometers.
 
 ## 设计要求
 

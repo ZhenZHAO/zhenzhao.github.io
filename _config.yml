@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Zhen ZHAO"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. candidate @ University of Sydney"
-  location         : "Sydney, Australia"
+  bio              : "Ph.D. @ USYD"
+  location         : "Sydney, AU"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=7mpuhO8AAAAJ&hl=en"
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "itzhenzhao"
+  facebook         : #"itzhenzhao"
   foursquare       :
   github           : "ZhenZHAO"
   google_plus      :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "zhenzhaoin"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -111,7 +111,7 @@ author:
   tumblr           :
   twitter          : #"replacethistwitterhandle"
   vine             :
-  weibo            : "itzhenzhao"
+  weibo            : # "itzhenzhao"
   xing             :
   youtube          :
   wikipedia        :

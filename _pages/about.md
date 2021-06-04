@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Zhen ZHAO (赵振) is a Ph.D. candidate in Electrical and Information Engineering at the [University of Sydney](https://www.sydney.edu.au/). 
+Zhen ZHAO (赵振) is a Ph.D. candidate in Electrical and Information Engineering at the [University of Sydney (USYD)](https://www.sydney.edu.au/). 
 He is advised by Dr. [Luping Zhou](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/luping-zhou.html) and Dr. [Wanli Ouyang](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/wanli-ouyang.html) from USYD and works closely with Dr. [Lei Wang](https://scholars.uow.edu.au/display/lei_wang) from the University of Wollongong and Dr. [Yinghuan Shi](https://cs.nju.edu.cn/shiyh/) from the Nanjing University. 
 His current research interests focus on Computer Vision and its application in Medical Image Analysis.
 
