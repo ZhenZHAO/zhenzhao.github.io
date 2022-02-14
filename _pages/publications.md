@@ -7,8 +7,12 @@ author_profile: true
 
 \* denotes equal contribution.
 
-## 2021
-- **Z. Zhao**, L. Zhou, et. al., "DC-SSL: Addressing Mismatched Class Distribution in Semi-supervised Learning", submitted.
+## Recent
+- Y. Duan*, __Z. Zhao*__, L. Qi, L. Zhou, L. Wang, Y. Shi, “Semi-supervised Learning with Mutex-basedConsistency Regularization”, submitted to ICML.
+- **Z. Zhao**, L. Zhou, G. Gui, L. Qi, Y. Shi, “Mutual Information Maximization for Semi-supervised Learning”, submitted to ICML.
+- G. Gui*, __Z. Zhao*__, L. Qi, L. Zhou, L. Wang, Y. Shi, “Improving Barely Supervised Learning with Cluster-based Auxiliary Training”, submitted to IJCAI.
+- Z. Wang, __Z. Zhao__, L. Qi, L. Zhou, L. Wang, Y. Shi, Y. Gao, “Adaptive Weight of Unreliable Relation Module for Semi-supervised Multi-label Image Classification”, submitted to ICME.
+- **Z. Zhao**, L. Zhou, et. al., "DC-SSL: Addressing Mismatched Class Distribution in Semi-supervised Learning", submitted to CVPR.
 - **Z. Zhao**, L. Zhou, L. Wang, Y. Shi, Y. Gao， "LaSSL: Label-Guided Self-training for Semi-supervised Learning", AAAI, 2022.
 
 ## Before
