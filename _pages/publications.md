@@ -8,7 +8,8 @@ author_profile: true
 \* denotes equal contribution.
 
 ## Recent
-- **Z. Zhao**, L. Zhou, L. Wang, Y. Shi, Y. Gao， "LaSSL: Label-Guided Self-training for Semi-supervised Learning", AAAI, 2022.
+- **Z. Zhao**, L. Zhou, Y. Duan, L. Wang, L. Qi, and Y. Shi, "DC-SSL: Addressing Mismatched Class Distribution in Semi-supervised Learning", CVPR, 2022.
+- **Z. Zhao**, L. Zhou, L. Wang, Y. Shi, Y. Gao， "LaSSL: Label-Guided Self-training for Semi-supervised Learning", AAAI (oral), 2022.
 
 ## Before
 - **Z. Zhao**, H. Zhang, T. An, X. Liu, B. Lao, "Pulsar Candidate Selection by An Ensemble Learning Method", submitted to Astronomy and Computing, 2020
