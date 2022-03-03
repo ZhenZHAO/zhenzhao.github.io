@@ -20,7 +20,6 @@ His current research interests focus on Computer Vision and its application in M
 - One paper submitted to CVPR 2022, Nov. 2021 --> accepted, Mar. 2022
 - One paper submitted to AAAI 2022, Aug. 2021 --> accepted (Oral), Dec. 2021
 - ~~One Paper submitted to NeurIPS-2021, May 2021.~~ --> no good
-- Intern @ National Institute of Healthcare Data Science, March 2021.
 - Registered as a Ph.D. Student after a 2-year break, January 2021. 
 
 ## Selected Awards
