@@ -13,7 +13,7 @@ He is advised by Dr. [Luping Zhou](https://www.sydney.edu.au/engineering/about/o
 His current research interests focus on Computer Vision and its application in Medical Image Analysis.
 
 ## News
-- Intern @ Institute of Deep Learning, Baidu Research, Mar. 2022
+- One paper submitted to ECCV 2022, Mar. 2022
 - two paper submitted to ICML 2022, Jan. 2022
 - One paper submitted to IJCAI 2022, Jan. 2022
 - One paper submitted to ICME 2022, Dec. 2021
