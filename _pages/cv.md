@@ -18,9 +18,13 @@ Education
 
 Work experience
 ======
-- March 2021 ~ Now: Research Assistant (intern)
+- March 2022 ~ Now: Research Assistant (intern)
+  * Institute of Deep Learning @ Baidu Research
+  * Supervisor: Dr. Tianyi Wu
+
+- March 2021 ~ Feb. 2022: Research Assistant (intern)
   * National Institute of Healthcare Data Science @ Nanjing University
-  * Supervisor: Dr. Yinghuan Shi
+  * Supervisor: Prof. Yinghuan Shi
 
 * Nov. 2019 ~ Mar. 2020: Research Assistant (intern)
   * National Engineering Laboratory for Internet medical Systems and Applications @ Zhengzhou
