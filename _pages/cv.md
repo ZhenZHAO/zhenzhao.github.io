@@ -19,8 +19,9 @@ Education
 Work experience
 ======
 - March 2022 ~ Now: Research Assistant (intern)
-  * Institute of Deep Learning @ Baidu Research
-  * Supervisor: Dr. Tianyi Wu
+  * Institute of Deep Learning (IDL)  @ Baidu Research
+  * Department of Computer Vision Technology (VIS) @ Baidu
+  * Supervisor: Dr. Jingdong Wang
 
 - March 2021 ~ Feb. 2022: Research Assistant (intern)
   * National Institute of Healthcare Data Science @ Nanjing University
