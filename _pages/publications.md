@@ -7,10 +7,15 @@ author_profile: true
 
 \* denotes equal contribution.
 
+## Preprints
+- **Z. Zhao**\*, S. Long*, et.al,  "Instance-specific and Model-adaptive Supervision for Semi-supervised Semantic Segmentation", arXiv:2211.11335.
+- S. long*, **Z. Zhao**\*, "Beyond Attentive Tokens: Incorporating Token Importance and Diversity for Efficient Vision Transformers", arXiv:2211.11315
+
 ## ML-related
-- G. Guan*, **Z. Zhao**\*, L. Qi, L. Zhou, L. Wang, and Y. Shi, "Improving Barely Supervised Learning by Discriminating Unlabeled Samples with Super-Class", Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS), 2022
+- Y. Duan, **Z. Zhao**, L. Qi, L. Wang, L. Zhou, Y. Shi, and Y. Gao, "MutexMatch: Semi-supervised Learning with Mutex-based Consistency Regularization", IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2022.
+- G. Guan*, **Z. Zhao**\*, L. Qi, L. Zhou, L. Wang, and Y. Shi, "Improving Barely Supervised Learning by Discriminating Unlabeled Samples with Super-Class", Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS) (**spotlight**), 2022
 - **Z. Zhao**, L. Zhou, Y. Duan, L. Wang, L. Qi, and Y. Shi, "DC-SSL: Addressing Mismatched Class Distribution in Semi-supervised Learning", CVPR, 2022.
-- **Z. Zhao**, L. Zhou, L. Wang, Y. Shi, Y. Gao， "LaSSL: Label-Guided Self-training for Semi-supervised Learning", AAAI (oral), 2022.
+- **Z. Zhao**, L. Zhou, L. Wang, Y. Shi, Y. Gao， "LaSSL: Label-Guided Self-training for Semi-supervised Learning", AAAI (**oral**), 2022.
 
 ## EE-related
 - C. Ying, **Z. Zhao**, C. Yi, Y. Shi and R. Wang, ''AoTI Minimization for Multi-Type Data Sampling in Industrial Wireless Sensor Networks,'' IEEE International Conference on Embedded and Ubiquitous Computing (EUC), Wuhan, China, Oct. 28-30, 2022.
