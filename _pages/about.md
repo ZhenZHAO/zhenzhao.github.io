@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Zhen ZHAO (赵振) is a Ph.D. candidate in Electrical and Information Engineering at the [University of Sydney (USYD)](https://www.sydney.edu.au/). 
-He is advised by Dr. [Luping Zhou](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/luping-zhou.html) and Dr. [Wanli Ouyang](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/wanli-ouyang.html) from the USYD and Dr. [Lei Wang](https://scholars.uow.edu.au/display/lei_wang) from the University of Wollongong. He also works closely with Dr. [Changyan Yi](http://inet-nuaa.cn/changyan-yi/) from the Nanjing University of Aeronautics and Astronautics on stochastic optimization and game theory with applications on wireless networks. His current research focuses on semi/self-supervised learning in Computer Vision and its application in Medical Image Analysis.
+He is advised by Prof. [Luping Zhou](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/luping-zhou.html) and Prof. [Wanli Ouyang](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/wanli-ouyang.html) from the USYD and Prof. [Lei Wang](https://scholars.uow.edu.au/display/lei_wang) from the University of Wollongong, Australia. He also works closely with Prof. [Changyan Yi](http://inet-nuaa.cn/changyan-yi/) from the Nanjing University of Aeronautics and Astronautics on stochastic optimization and game theory with applications on wireless networks. His current research focuses on semi/self-supervised learning in Computer Vision and their applications in Medical Image Analysis.
 
 
 ## News
