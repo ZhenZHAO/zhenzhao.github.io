@@ -20,24 +20,24 @@ Work experience
 ======
 - December 2022 ~ Now : Research Assistant (intern)
   * Youtu Lab  @ Tencent
-  * Supervisor: Dr. Ye Liu
+  * Supervisor: [Dr. Ye Liu](https://open.youtu.qq.com/#/open)
 
 - March 2022 ~ November 2022 : Research Assistant (intern)
   * Institute of Deep Learning (IDL)  @ Baidu Research
   * Department of Computer Vision Technology (VIS) @ Baidu
-  * Supervisor: Dr. Jingdong Wang
+  * Supervisor: [Dr. Jingdong Wang](https://jingdongwang2017.github.io/)
 
 - March 2021 ~ Feb. 2022: Research Assistant (intern)
   * National Institute of Healthcare Data Science @ Nanjing University
-  * Supervisor: Prof. Yinghuan Shi
+  * Supervisor: [Prof. Yinghuan Shi](https://cs.nju.edu.cn/shiyh/index.htm)
 
 * Nov. 2019 ~ Mar. 2020: Research Assistant (intern)
   * National Engineering Laboratory for Internet medical Systems and Applications @ Zhengzhou
-  * Supervisor: Dr. Xianying He
+  * Supervisor: [Dr. Xianying He](http://www.htcc.org.cn/)
 
 * July 2017 ~ Mar. 2019: SKA Software Engineer (full-time)
   * Shanghai Astronomical Observatory, Chinese Academy of Sciences.
-  * Supervisor: Prof. Tao An
+  * Supervisor: [Prof. Tao An](http://202.127.29.4/CRATIV/zh-cn/antao.html)
 
 Scholarships and Awards
 ======
