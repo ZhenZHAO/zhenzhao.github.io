@@ -18,7 +18,11 @@ Education
 
 Work experience
 ======
-- March 2022 ~ Now: Research Assistant (intern)
+- December 2022 ~ Now : Research Assistant (intern)
+  * Youtu Lab  @ Tencent
+  * Supervisor: Dr. Ye Liu
+
+- March 2022 ~ November 2022 : Research Assistant (intern)
   * Institute of Deep Learning (IDL)  @ Baidu Research
   * Department of Computer Vision Technology (VIS) @ Baidu
   * Supervisor: Dr. Jingdong Wang
