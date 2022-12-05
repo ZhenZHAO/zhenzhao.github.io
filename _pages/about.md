@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Zhen Zhao"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 Zhen ZHAO (赵振) is a Ph.D. candidate in Electrical and Information Engineering at the [University of Sydney (USYD)](https://www.sydney.edu.au/). 
-He is advised by Dr. [Luping Zhou](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/luping-zhou.html) and Dr. [Wanli Ouyang](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/wanli-ouyang.html) from USYD and Dr. [Lei Wang](https://scholars.uow.edu.au/display/lei_wang) from the University of Wollongong. He also works closely with Dr. Yangyan Yi from the Nanjing University of Aeronautics and Astronautics, Dr. [Yinghuan Shi](https://cs.nju.edu.cn/shiyh/) from the Nanjing University, and Dr. Jun Cai from the Concordia University.
-His current research interests focus on Computer Vision and its application in Medical Image Analysis.
+He is advised by Dr. [Luping Zhou](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/luping-zhou.html) and Dr. [Wanli Ouyang](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/wanli-ouyang.html) from the USYD and Dr. [Lei Wang](https://scholars.uow.edu.au/display/lei_wang) from the University of Wollongong. He also works closely with Dr. [Changyan Yi](http://inet-nuaa.cn/changyan-yi/) from the Nanjing University of Aeronautics and Astronautics and Dr. [Jun Cai](https://users.encs.concordia.ca/~juncai/index.html) from the Concordia University on wireless communication networks. His current research focuses on semi/self-supervised learning in Computer Vision and its application in Medical Image Analysis.
+
 
 ## News
 - Seven papers submitted to CVPR 2023, Nov. 2022 -->
@@ -29,9 +29,11 @@ His current research interests focus on Computer Vision and its application in M
 - National First Prize in the Mathematical Contest in Modeling, China, 2012
 
 ## Selected Publications
+- **Z. Zhao**, L. Zhou, L. Wang, Y. Shi, Y. Gao， “LaSSL: Label-Guided Self-training for Semi-supervised Learning”, AAAI (**oral**), 2022
 - **Z. Zhao**, S. Huang, J. Cai, "(**Invited Paper**) Energy efficient packet transmission strategies for wireless body area networks with rechargeable sensors," IEEE VTC 2017-Fall, Toronto, Canada, Sept. 2017.
-- **Z. Zhao**, S. Huang, J. Cai, "An analytical framework for IEEE 802.15.6 based wireless body area networks with instantaneous delay constraints and shadowing interruptions," IEEE Transactions on Vehicular Technology, vol. 67, no. 7, pp. 6355-6369, 2018
-- **Z. Zhao**, T. An, B. Lao, "VLBI network simulator: an integrated simulation tool for radio astronomers", Journal of The Korean Astronomical Society, vol. 52, no. 5, pp. 207-216, 2019.
+- **Z. Zhao**, T. An, B. Lao, “VLBI network simulator: an integrated simulation tool for radio astronomers”, Journal of The Korean Astronomical Society, vol. 52, no. 5, pp. 207-216, 2019.
+
+
 
 ## Interesting Demos
 - [VLBI simulator](https://zhenzhao.github.io/posts/2017/11/demos-vlbi-sim/), 2018
