@@ -9,15 +9,14 @@ redirect_from:
 ---
 
 Zhen ZHAO (赵振) is a Ph.D. candidate in Electrical and Information Engineering at the [University of Sydney (USYD)](https://www.sydney.edu.au/). 
-He is advised by Dr. [Luping Zhou](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/luping-zhou.html) and Dr. [Wanli Ouyang](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/wanli-ouyang.html) from USYD and works closely with Dr. [Lei Wang](https://scholars.uow.edu.au/display/lei_wang) from the University of Wollongong and Dr. [Yinghuan Shi](https://cs.nju.edu.cn/shiyh/) from the Nanjing University. 
+He is advised by Dr. [Luping Zhou](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/luping-zhou.html) and Dr. [Wanli Ouyang](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/wanli-ouyang.html) from USYD, and works closely with Dr. [Lei Wang](https://scholars.uow.edu.au/display/lei_wang) from the University of Wollongong and Dr. [Yinghuan Shi](https://cs.nju.edu.cn/shiyh/) from the Nanjing University. 
 His current research interests focus on Computer Vision and its application in Medical Image Analysis.
 
 ## News
-- two paper submitted to ICML 2022, Jan. 2022
-- One paper submitted to IJCAI 2022, Jan. 2022
-- ~~One paper submitted to ICME 2022, Dec. 2021~~ --> no good.
+- Seven papers submitted to CVPR 2023, Nov. 2022 -->
+- One paper submitted to NeurIPS 2022, May 2022 --> accepted (**Spotlight**), Nov. 2022
 - One paper submitted to CVPR 2022, Nov. 2021 --> accepted, Mar. 2022
-- One paper submitted to AAAI 2022, Aug. 2021 --> accepted (Oral), Dec. 2021
+- One paper submitted to AAAI 2022, Aug. 2021 --> accepted (**Oral**), Dec. 2021
 - ~~One Paper submitted to NeurIPS-2021, May 2021.~~ --> no good
 - Registered as a Ph.D. Student after a 2-year break, January 2021. 
 
