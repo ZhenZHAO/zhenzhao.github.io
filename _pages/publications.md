@@ -8,8 +8,9 @@ author_profile: true
 \* denotes equal contribution.
 
 ## Preprints
+- **Z. Zhao**, L. Yang, et.al, "Augmentation Matters: A Simple-yet-Effective Approach to Semi-supervised Semantic Segmentation", arXiv:2212.04976
 - **Z. Zhao**\*, S. Long*, et.al,  "Instance-specific and Model-adaptive Supervision for Semi-supervised Semantic Segmentation", arXiv:2211.11335.
-- S. long*, **Z. Zhao**\*, "Beyond Attentive Tokens: Incorporating Token Importance and Diversity for Efficient Vision Transformers", arXiv:2211.11315
+- S. long*, **Z. Zhao**\*, et.al, "Beyond Attentive Tokens: Incorporating Token Importance and Diversity for Efficient Vision Transformers", arXiv:2211.11315
 
 ## ML-related
 - Y. Duan, **Z. Zhao**, L. Qi, L. Wang, L. Zhou, Y. Shi, and Y. Gao, "MutexMatch: Semi-supervised Learning with Mutex-based Consistency Regularization", IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2022.
