@@ -20,7 +20,7 @@ Work experience
 ======
 - December 2022 ~ Now : Research Assistant (intern)
   * Youtu Lab  @ Tencent
-  * Supervisor: [Dr. Ye Liu](https://open.youtu.qq.com/#/open)
+  * Supervisor: [Dr. Ye Liu and Dr. Di Yin](https://open.youtu.qq.com/#/open)
 
 - March 2022 ~ November 2022 : Research Assistant (intern)
   * Institute of Deep Learning (IDL)  @ Baidu Research
