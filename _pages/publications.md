@@ -8,12 +8,14 @@ author_profile: true
 \* denotes equal contribution.
 
 ## Preprints
-- **Z. Zhao**, L. Yang, et.al, "Augmentation Matters: A Simple-yet-Effective Approach to Semi-supervised Semantic Segmentation", arXiv:2212.04976
-- **Z. Zhao**\*, S. Long*, et.al,  "Instance-specific and Model-adaptive Supervision for Semi-supervised Semantic Segmentation", arXiv:2211.11335.
-- S. long*, **Z. Zhao**\*, et.al, "Beyond Attentive Tokens: Incorporating Token Importance and Diversity for Efficient Vision Transformers", arXiv:2211.11315
 
 ## ML-related
+- **Z. Zhao**, L. Yang, S. Long, J. Pi, L. Zhou, J. Wang, ``Augmentation Matters: A Simple-yet-Effective Approach to Semi-supervised Semantic Segmentation", CVPR, 2023
+- S. Long*,  **Z. Zhao**\*, J. Pi, S. Wang, J. Wang, ``Beyond Attentive Tokens: Incorporating Token Importance and Diversity for Efficient Vision Transformers", CVPR, 2023
+- **Z. Zhao**\*, S. Long*, J. Pi, J. Wang, L. Zhou, ``Instance-specific and Model-adaptive Supervision for Semi-supervised Semantic Segmentation", CVPR, 2023
+- Z. Wang, **Z. Zhao**, L. Zhou, D. Xu, X. Xing, X. Kong, ``Conflict-Based Cross-View Consistency for Semi-Supervised Semantic Segmentation", CVPR, 2023
 - Y. Duan, **Z. Zhao**, L. Qi, L. Wang, L. Zhou, Y. Shi, and Y. Gao, "MutexMatch: Semi-supervised Learning with Mutex-based Consistency Regularization", IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2022.
+- Z. Wang, **Z. Zhao**, L. Qi, Y. Shi, Y. Gao. “ Adaptive Weight of Unreliable Relation Module for Semi-supervised Multi-label Image Recognition. ” IEEE 8th International Conference on Cloud Computing and Intelligent Systems (CCIS), 2022.
 - G. Guan*, **Z. Zhao**\*, L. Qi, L. Zhou, L. Wang, and Y. Shi, "Improving Barely Supervised Learning by Discriminating Unlabeled Samples with Super-Class", Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS) (**spotlight**), 2022
 - **Z. Zhao**, L. Zhou, Y. Duan, L. Wang, L. Qi, and Y. Shi, "DC-SSL: Addressing Mismatched Class Distribution in Semi-supervised Learning", CVPR, 2022.
 - **Z. Zhao**, L. Zhou, L. Wang, Y. Shi, Y. Gao， "LaSSL: Label-Guided Self-training for Semi-supervised Learning", AAAI (**oral**), 2022.
