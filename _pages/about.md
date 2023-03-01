@@ -13,10 +13,10 @@ He is advised by Prof. [Luping Zhou](https://www.sydney.edu.au/engineering/about
 
 
 ## News
-- [02/2023] Four papers on Semi-supervised Segmentation and ViT prunning are accecpted by CVPR 23
-- [11/2022] One paper on Barely-supervised Learning is accepted by NeurIPS 2022 --> **Spotlight**
-- [03/2022] One paper on mismatched Semi-supervised Learning is accepted by CVPR 2022, Nov. 2021
-- [12/2021] One paper on Semi-supervised Learning is accepted by AAAI 2022, Aug. 2021 --> **Oral**
+- [02/2023] 4 papers on semi-supervised semantic segmentation and efficient ViT pruning are accecpted by CVPR 2023.
+- [11/2022] A paper on barely-supervised Learning is accepted by NIPS 2022 (**Spotlight**).
+- [03/2022] A paper on mismatched semi-supervised Learning is accepted by CVPR 2022.
+- [12/2021] A paper on semi-supervised Learning is accepted by AAAI 2022 (**Oral**).
 - [01/2021] Registered as a Ph.D. Student @ USYD after a 2-year break.  
 
 ## Selected Awards
@@ -32,7 +32,6 @@ He is advised by Prof. [Luping Zhou](https://www.sydney.edu.au/engineering/about
 - **Z. Zhao**, L. Zhou, L. Wang, Y. Shi, Y. Gao， “LaSSL: Label-Guided Self-training for Semi-supervised Learning”, AAAI (**oral**), 2022
 - **Z. Zhao**, S. Huang, J. Cai, "(**Invited Paper**) Energy efficient packet transmission strategies for wireless body area networks with rechargeable sensors," IEEE VTC 2017-Fall, Toronto, Canada, Sept. 2017.
 - **Z. Zhao**, T. An, B. Lao, “VLBI network simulator: an integrated simulation tool for radio astronomers”, Journal of The Korean Astronomical Society, vol. 52, no. 5, pp. 207-216, 2019.
-
 
 
 ## Interesting Demos
