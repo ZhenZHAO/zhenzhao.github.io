@@ -8,6 +8,8 @@ author_profile: true
 \* denotes equal contribution.
 
 ## Preprints
+- S. Long*,  **Z. Zhao**\*,  J. Yuan, Z. Tan, J. Liu, L. Zhou, S. Wang, J. Wang``Task-Oriented Multi-Modal Mutual Leaning for Vision-Language Models", arXiv:2303.17169.
+
 
 ## ML-related
 - **Z. Zhao**, L. Yang, S. Long, J. Pi, L. Zhou, J. Wang, ``Augmentation Matters: A Simple-yet-Effective Approach to Semi-supervised Semantic Segmentation", CVPR, 2023
@@ -21,6 +23,7 @@ author_profile: true
 - **Z. Zhao**, L. Zhou, L. Wang, Y. Shi, Y. Gao， "LaSSL: Label-Guided Self-training for Semi-supervised Learning", AAAI (**oral**), 2022.
 
 ## EE-related
+- C. Ying, **Z. Zhao**, C. Yi, Y. Shi, J. Cai, ''An AoTI-Driven Joint Sampling Frequency and Access Selection Optimization for Industrial Wireless Sensor Networks'', IEEE Transactions on Vehicular Technology, to appear, 2023.
 - C. Ying, **Z. Zhao**, C. Yi, Y. Shi and R. Wang, ''AoTI Minimization for Multi-Type Data Sampling in Industrial Wireless Sensor Networks,'' IEEE International Conference on Embedded and Ubiquitous Computing (EUC), Wuhan, China, Oct. 28-30, 2022.
 - **Z. Zhao**, H. Zhang, T. An, X. Liu, B. Lao, "Pulsar Candidate Selection by An Ensemble Learning Method", submitted to Astronomy and Computing, 2020
 - **Z. Zhao**, T. An, B. Lao, "VLBI network simulator: an integrated simulation tool for radio astronomers", Journal of The Korean Astronomical Society, vol. 52, no. 5, pp. 207-216, 2019.
