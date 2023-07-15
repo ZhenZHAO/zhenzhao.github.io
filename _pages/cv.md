@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-- December 2022 ~ Now : Research Assistant (intern)
+- December 2022 ~ May 2023 : Research Assistant (intern)
   * Youtu Lab  @ Tencent
   * Supervisor: [Dr. Ye Liu and Dr. Di Yin](https://open.youtu.qq.com/#/open)
 
