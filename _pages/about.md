@@ -13,7 +13,8 @@ He is advised by Prof. [Luping Zhou](https://www.sydney.edu.au/engineering/about
 
 
 ## News
-- [02/2023] 4 papers on semi-supervised semantic segmentation and efficient ViT pruning are accecpted by CVPR 2023.
+- [07/2023] 4 papers on semi-supervised learning and fast adaptation of large foundation model are accepted by ICCV 2023.
+- [02/2023] 4 papers on semi-supervised semantic segmentation and efficient ViT pruning are accepted by CVPR 2023.
 - [11/2022] A paper on barely-supervised Learning is accepted by NIPS 2022 (**Spotlight**).
 - [03/2022] A paper on mismatched semi-supervised Learning is accepted by CVPR 2022.
 - [12/2021] A paper on semi-supervised Learning is accepted by AAAI 2022 (**Oral**).
