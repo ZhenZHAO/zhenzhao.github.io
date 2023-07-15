@@ -8,10 +8,14 @@ author_profile: true
 \* denotes equal contribution.
 
 ## Preprints
-- S. Long*,  **Z. Zhao**\*,  J. Yuan, Z. Tan, J. Liu, L. Zhou, S. Wang, J. Wang``Task-Oriented Multi-Modal Mutual Leaning for Vision-Language Models", arXiv:2303.17169.
 
 
 ## ML-related
+- S. Long*,  **Z. Zhao**\*,  J. Yuan, Z. Tan, J. Liu, L. Zhou, S. Wang, J. Wang, ``Task-Oriented Multi-Modal Mutual Leaning for Vision-Language Models", ICCV, 2023
+- L. Yang, **Z. Zhao**, L. Qi, Y. Qiao, Y. Shi, H. Zhao, ``Shrinking Class Space for Enhanced Certainty in Semi-Supervised Learning", ICCV, 2023
+- G. Gui, **Z. Zhao**, L. Qi, L. Zhou, L. Wang, Y. Shi, ``Enhancing Sample Utilization through Sample Adaptive Augmentation in Semi-Supervised Learning", ICCV, 2023
+- Y. Duan, **Z. Zhao**, L. Qi, L. Zhou, L. Wang, Y. Shi, ``Class Transition Tracking Based Pseudo-Rectifying Guidance for Semi-supervised Learning with Non-random Missing Labels", ICCV, 2023
+- B. Lao, S. Jaiswal, **Z. Zhao**, L. Lin, J. Wang, X. Sun, S-L Qin, ``Radio sources segmentation and classification with deep learning", Astronomy and Computing, 2023
 - **Z. Zhao**, L. Yang, S. Long, J. Pi, L. Zhou, J. Wang, ``Augmentation Matters: A Simple-yet-Effective Approach to Semi-supervised Semantic Segmentation", CVPR, 2023
 - S. Long*,  **Z. Zhao**\*, J. Pi, S. Wang, J. Wang, ``Beyond Attentive Tokens: Incorporating Token Importance and Diversity for Efficient Vision Transformers", CVPR, 2023
 - **Z. Zhao**\*, S. Long*, J. Pi, J. Wang, L. Zhou, ``Instance-specific and Model-adaptive Supervision for Semi-supervised Semantic Segmentation", CVPR, 2023
