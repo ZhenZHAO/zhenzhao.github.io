@@ -41,6 +41,7 @@ Work experience
 
 Scholarships and Awards
 ======
+- PhD International Mobility for Partnerships and Collaborations Award, CUHK, 2023
 - Faculty of Engineering Research Scholarship @ USYD, 2020
 - ~~University of Sydney International Scholarship (USydIS)， 2019~~
 - Invited paper, IEEE Vehicular Technology Conference (VTC) - Fall, 2017
