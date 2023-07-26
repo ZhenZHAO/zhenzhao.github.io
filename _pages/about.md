@@ -14,6 +14,7 @@ He is advised by Prof. [Luping Zhou](https://www.sydney.edu.au/engineering/about
 
 ## News
 - [07/2023] 4 papers on semi-supervised learning and fast adaptation of large foundation model are accepted by ICCV 2023.
+- [07/2023] A paper on conventional semi- and barely- supervised learning  is accepted by ACM MM 2023.
 - [02/2023] 4 papers on semi-supervised semantic segmentation and efficient ViT pruning are accepted by CVPR 2023.
 - [11/2022] A paper on barely-supervised Learning is accepted by NIPS 2022 (**Spotlight**).
 - [03/2022] A paper on mismatched semi-supervised Learning is accepted by CVPR 2022.
@@ -21,6 +22,7 @@ He is advised by Prof. [Luping Zhou](https://www.sydney.edu.au/engineering/about
 - [01/2021] Registered as a Ph.D. Student @ USYD after a 2-year break.  
 
 ## Selected Awards
+- PhD International Mobility for Partnerships and Collaborations Award, CUHK, Hong Kong
 - Faculty of Engineering Research Scholarship @ USYD, 2020
 - ~~University of Sydney International Scholarship (USydIS)， 2019~~
 - International Graduate Student Scholarship (IGSS), 2014 - 2015 @ University of Manitoba.
