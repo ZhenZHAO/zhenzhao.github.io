@@ -18,7 +18,7 @@ author_profile: true
 - **Z. Zhao**, M. Zhao, Y. Liu, D. Yin, L. Zhou, ``Entropy-based Optimization on Individual and Global Predictions for Semi-Supervised Learning", ACMMM, 2023
 - S. Long*,  **Z. Zhao**\*,  J. Yuan, Z. Tan, J. Liu, L. Zhou, S. Wang, J. Wang, ``Task-Oriented Multi-Modal Mutual Leaning for Vision-Language Models", ICCV, 2023
 - L. Yang, **Z. Zhao**, L. Qi, Y. Qiao, Y. Shi, H. Zhao, ``Shrinking Class Space for Enhanced Certainty in Semi-Supervised Learning", ICCV, 2023
-- G. Gui, **Z. Zhao**, L. Qi, L. Zhou, L. Wang, Y. Shi, ``Enhancing Sample Utilization through Sample Adaptive Augmentation in Semi-Supervised Learning", ICCV, 2023
+- G. Gui, **Z. Zhao**, L. Qi, L. Zhou, L. Wang, Y. Shi, ``Enhancing Sample Utilization through Sample Adaptive Augmentation in Semi-Supervised Learning", ICCV (**Oral**), 2023 
 - Y. Duan, **Z. Zhao**, L. Qi, L. Zhou, L. Wang, Y. Shi, ``Class Transition Tracking Based Pseudo-Rectifying Guidance for Semi-supervised Learning with Non-random Missing Labels", ICCV, 2023
 - B. Lao, S. Jaiswal, **Z. Zhao**, L. Lin, J. Wang, X. Sun, S-L Qin, ``Radio sources segmentation and classification with deep learning", Astronomy and Computing, 2023
 - Y. Duan, **Z. Zhao**, L. Qi, L. Wang, L. Zhou, Y. Shi, and Y. Gao, "MutexMatch: Semi-supervised Learning with Mutex-based Consistency Regularization", IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2022.
