@@ -13,7 +13,7 @@ He is advised by Prof. [Luping Zhou](https://www.sydney.edu.au/engineering/about
 
 
 ## News
-- [07/2023] 4 papers on semi-supervised learning and fast adaptation of large foundation model are accepted by ICCV 2023.
+- [07/2023] 4 papers on semi-supervised learning and fast adaptation of large foundation model are accepted by ICCV 2023 (one is selected as **Oral**).
 - [07/2023] A paper on conventional semi- and barely- supervised learning  is accepted by ACM MM 2023.
 - [02/2023] 4 papers on semi-supervised semantic segmentation and efficient ViT pruning are accepted by CVPR 2023.
 - [11/2022] A paper on barely-supervised Learning is accepted by NIPS 2022 (**Spotlight**).
