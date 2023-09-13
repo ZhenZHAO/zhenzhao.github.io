@@ -9,6 +9,8 @@ author_profile: true
 
 ## Preprints
 
+- **Z. Zhao**, Y. Liu, M. Zhao, D. Yin, Y. Yuan, L. Zhou, ``Rethinking Data Perturbation and Model Stabilization for Semi-supervised Medical Image Segmentation", arxiv:[2308.11903](https://arxiv.org/abs/2308.11903).
+
 
 ## ML-related
 - **Z. Zhao**, L. Yang, S. Long, J. Pi, L. Zhou, J. Wang, ``Augmentation Matters: A Simple-yet-Effective Approach to Semi-supervised Semantic Segmentation", CVPR, 2023
