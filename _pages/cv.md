@@ -18,6 +18,12 @@ Education
 
 Work experience
 ======
+
+- December 2022 ~ Present : Visiting PhD.
+  * AIM Lab  @ The Chinese University of Hong Kong
+  * Program: [PhD International Mobility for Partnerships and Collaborations Award](https://www.oal.cuhk.edu.hk/phd-impac-award/)
+  * Supervisor: [Prof. Yixuan Yuan](https://www.ee.cuhk.edu.hk/~yxyuan/)
+
 - December 2022 ~ May 2023 : Research Assistant (intern)
   * Youtu Lab  @ Tencent
   * Supervisor: [Dr. Ye Liu and Dr. Di Yin](https://open.youtu.qq.com/#/open)
