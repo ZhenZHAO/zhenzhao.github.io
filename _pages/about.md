@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Zhen ZHAO (赵振) is a Ph.D. candidate in Electrical and Information Engineering at the [University of Sydney (USYD)](https://www.sydney.edu.au/). 
-He is advised by Prof. [Luping Zhou](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/luping-zhou.html) and Prof. [Wanli Ouyang](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/wanli-ouyang.html) from the USYD and Prof. [Lei Wang](https://scholars.uow.edu.au/display/lei_wang) from the University of Wollongong, Australia. He also works closely with Prof. [Changyan Yi](http://inet-nuaa.cn/changyan-yi/) from the Nanjing University of Aeronautics and Astronautics on stochastic optimization and game theory with applications on wireless networks. His current research focuses on semi/self-supervised learning in Computer Vision and their applications in Medical Image Analysis.
+He is advised by Prof. [Luping Zhou](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/luping-zhou.html) and Prof. [Wanli Ouyang](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/wanli-ouyang.html) from the USYD and Prof. [Lei Wang](https://scholars.uow.edu.au/display/lei_wang) from the University of Wollongong, Australia. He also works closely with Prof. [Changyan Yi](http://inet-nuaa.cn/changyan-yi/) from the Nanjing University of Aeronautics and Astronautics on stochastic optimization and game theory with applications on wireless networks. His current research mainly focuses on developing multimodal foundation models for reasoning and decision-making tasks, as well as exploring semi/self-supervised learning techniques for label-efficient perception.
 
 
 ## News
@@ -22,7 +22,8 @@ He is advised by Prof. [Luping Zhou](https://www.sydney.edu.au/engineering/about
 - [01/2021] Registered as a Ph.D. Student @ USYD after a 2-year break.  
 
 ## Selected Awards
-- PhD International Mobility for Partnerships and Collaborations Award, CUHK, Hong Kong
+- DAAD AInet fellow for the Postdoc-NeT-AI 11/2023 Networking Week on Human-centered AI, Germany, 2023
+- PhD International Mobility for Partnerships and Collaborations Award, CUHK, Hong Kong, 2023
 - Faculty of Engineering Research Scholarship @ USYD, 2020
 - ~~University of Sydney International Scholarship (USydIS)， 2019~~
 - International Graduate Student Scholarship (IGSS), 2014 - 2015 @ University of Manitoba.
