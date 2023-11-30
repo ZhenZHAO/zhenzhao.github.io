@@ -19,6 +19,10 @@ Education
 Work experience
 ======
 
+- Octorber 2023 ~ Present : Research Assistant (intern)
+  * AI Lab  @ Tencent
+  * Supervisor: [Dr. Longyue Wang](http://www.longyuewang.com/)
+
 - September 2023 ~ Present : Visiting PhD.
   * AIM Lab  @ The Chinese University of Hong Kong
   * Program: [PhD IMPAC Award](https://www.oal.cuhk.edu.hk/phd-impac-award/)
@@ -44,9 +48,11 @@ Work experience
 * July 2017 ~ Mar. 2019: SKA Software Engineer (full-time)
   * Shanghai Astronomical Observatory, Chinese Academy of Sciences.
   * Supervisor: [Prof. Tao An](http://202.127.29.4/CRATIV/zh-cn/antao.html)
+ 
 
 Scholarships and Awards
 ======
+- DAAD AInet fellow for the Postdoc-NeT-AI on Human-centered AI, Germany, 2023
 - PhD International Mobility for Partnerships and Collaborations Award, CUHK, 2023
 - Faculty of Engineering Research Scholarship @ USYD, 2020
 - ~~University of Sydney International Scholarship (USydIS)， 2019~~
