@@ -84,9 +84,9 @@ author:
   name             : "Zhen ZHAO"
   avatar           : "profile.jpg"
   # bio              : "Ph.D. @ USYD"
-  bio              : "Researcher @ Pujiang Lab & Huairou Lab"
+  bio              : "Researcher @ PJLab & HRLab"
   # location         : "Sydney, AU"
-  location         : "Beijing"
+  location         : 
   employer         : "Shanghai AI Lab"
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=7mpuhO8AAAAJ&hl=en"
