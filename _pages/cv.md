@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-- Ph.D. in Computer Science, University of Sydney, Australia, 2023 (expected) 
+- Ph.D. in Computer Science, University of Sydney, Australia, 2024
 - M.S. in Computer Science, Georgia Institute of Technology, USA, 2021
 - M.S. in Electrical and Computer Engineering, University of Manitoba, Canada, 2017
 - B.S. in Telecommunication Engineering, Guilin University of Electronic Technology, China, 2013
@@ -19,7 +19,11 @@ Education
 Work experience
 ======
 
-- Octorber 2023 ~ Present : Research Assistant (intern)
+- Juen 2024 ~ Present : Researcher
+  * Pujiang Laboratory (Shanghai AI Lab) & Huairou Laboratory
+  * Leader: [Wanli Ouyang](https://wlouyang.github.io/) and [Lei Bai](http://leibai.site/)
+
+- Octorber 2023 ~ May 2024 : Research Assistant (intern)
   * AI Lab  @ Tencent
   * Supervisor: [Dr. Longyue Wang](http://www.longyuewang.com/)
 
