@@ -16,6 +16,7 @@ Education
 - M.S. in Electrical and Computer Engineering, University of Manitoba, Canada, 2017
 - B.S. in Telecommunication Engineering, Guilin University of Electronic Technology, China, 2013
 
+
 Work experience
 ======
 
@@ -23,11 +24,11 @@ Work experience
   * Pujiang Laboratory (Shanghai AI Lab) & Huairou Laboratory
   * Leader: [Wanli Ouyang](https://wlouyang.github.io/) and [Lei Bai](http://leibai.site/)
 
-- Octorber 2023 ~ May 2024 : Research Assistant (intern)
+- November 2023 ~ May 2024 : Research Assistant (intern)
   * AI Lab  @ Tencent
   * Supervisor: [Dr. Longyue Wang](http://www.longyuewang.com/)
 
-- September 2023 ~ Present : Visiting PhD.
+- September 2023 ~ Jan 2024 : Visiting PhD.
   * AIM Lab  @ The Chinese University of Hong Kong
   * Program: [PhD IMPAC Award](https://www.oal.cuhk.edu.hk/phd-impac-award/)
   * Supervisor: [Prof. Yixuan Yuan](https://www.ee.cuhk.edu.hk/~yxyuan/)
@@ -52,7 +53,7 @@ Work experience
 * July 2017 ~ Mar. 2019: SKA Software Engineer (full-time)
   * Shanghai Astronomical Observatory, Chinese Academy of Sciences.
   * Supervisor: [Prof. Tao An](http://202.127.29.4/CRATIV/zh-cn/antao.html)
- 
+
 
 Scholarships and Awards
 ======
