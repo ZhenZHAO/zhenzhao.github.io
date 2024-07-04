@@ -19,7 +19,7 @@ Education
 Work experience
 ======
 
-- Juen 2024 ~ Present : Researcher
+- June 2024 ~ Present : Researcher
   * Pujiang Laboratory (Shanghai AI Lab) & Huairou Laboratory
   * Leader: [Wanli Ouyang](https://wlouyang.github.io/) and [Lei Bai](http://leibai.site/)
 
