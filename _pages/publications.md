@@ -8,15 +8,18 @@ author_profile: true
 \* denotes equal contribution.
 
 ## Preprints
-
+- L. Yang, B. Kang, Z. Huang, **Z. Zhao**, X. Xu, J. Feng, H. Zhao. "Depth Anything V2." arXiv preprint arXiv:[2406.09414](https://arxiv.org/abs/2406.09414).
 - **Z. Zhao**, Y. Liu, M. Zhao, D. Yin, Y. Yuan, L. Zhou, ``Rethinking Data Perturbation and Model Stabilization for Semi-supervised Medical Image Segmentation", arxiv:[2308.11903](https://arxiv.org/abs/2308.11903).
-- Z. Wang,**Z. Zhao**, Y. Wu, L. Zhou, D. Xu, ``Progressive Target-Styled Feature Augmentation for Unsupervised Domain Adaptation on Point Clouds". arXiv preprint arXiv:[2311.16474](https://arxiv.org/abs/2311.16474).
-- **Z. Zhao**, Z. Wang, L. Wang, Y. Yuan, L. Zhou ``Alternate Diverse Teaching for Semi-supervised Medical Image Segmentation", arXiv preprint arXiv:[2311.17325](https://arxiv.org/abs/2311.17325).
-- Z. Wang, L. Wang, \textbf{Z. Zhao}, M. Wu,  C. Lyu, H. Li, D. Cai, L. Zhou, S. Shi, Z. Tu, ``GPT4Video: A Unified Multimodal Large Language Model for lnstruction-Followed Understanding and Safety-Aware Generation". arXiv preprint arXiv:[2311.16511](https://arxiv.org/abs/2311.16511).
+- S. Long, L. Wang, Z. Zhao, Z. Tan, Y. Wu, S. Wang, J. Wang, ``Training-Free Unsupervised Prompt for Vision-Language Models", arXiv preprint arXiv:[2404.16339](https://arxiv.org/abs/2404.16339).
+- Q. Pan, Z. Wang, **Z. Zhao**, Y. Wu, S. Long, H. Liang, R. Liang. ``SOEDiff: Efficient Distillation for Small Object Editing," arXiv preprint arXiv:[2405.09114](https://arxiv.org/abs/2405.09114).
+- Z. Wang, L. Wang, **Z. Zhao**, M. Wu,  C. Lyu, H. Li, D. Cai, L. Zhou, S. Shi, Z. Tu, ``GPT4Video: A Unified Multimodal Large Language Model for lnstruction-Followed Understanding and Safety-Aware Generation". arXiv preprint arXiv:[2311.16511](https://arxiv.org/abs/2311.16511).
 - Z. Wang, **Z. Zhao**, E. Guo, L. Zhou, ``Clean Label Disentangling for Medical Image Segmentation with Noisy Labels", arXiv preprint arXiv:[2311.16580](https://arxiv.org/abs/2311.16580).
-- Z. Xu, Y. Zhang, E. Xie, **Z. Zhao**, Y. Guo,  K.K. Wong, Z. Li, H. Zhao, ``DriveGPT4: Interpretable End-to-end Autonomous Driving via Large Language Model". arXiv preprint arXiv:2310.01412.
+- Z. Xu, Y. Zhang, E. Xie, **Z. Zhao**, Y. Guo,  K.K. Wong, Z. Li, H. Zhao, ``DriveGPT4: Interpretable End-to-end Autonomous Driving via Large Language Model". arXiv preprint arXiv:[2310.01412]((https://arxiv.org/abs/2310.01412)).
 
 ## ML-related
+- **Z. Zhao**, Z. Wang, L. Wang, Y. Yuan, L. Zhou ``Alternate Diverse Teaching for Semi-supervised Medical Image Segmentation", ECCV, 2024.
+- Z. Wang,**Z. Zhao**, Y. Wu, L. Zhou, D. Xu, ``Progressive Target-Styled Feature Augmentation for Unsupervised Domain Adaptation on Point Clouds", ECCV, 2024.
+- Y. Duan, **Z. Zhao**, L. Qi, L. Zhou, L. Wang, Y. Shi, ``Roll with the Punches: Expansion and Shrinkage of Soft Label Selection for Semi-supervised Fine-Grained Learning", AAAI, 2024
 - **Z. Zhao**, L. Yang, S. Long, J. Pi, L. Zhou, J. Wang, ``Augmentation Matters: A Simple-yet-Effective Approach to Semi-supervised Semantic Segmentation", CVPR, 2023
 - S. Long*,  **Z. Zhao**\*, J. Pi, S. Wang, J. Wang, ``Beyond Attentive Tokens: Incorporating Token Importance and Diversity for Efficient Vision Transformers", CVPR, 2023
 - **Z. Zhao**\*, S. Long*, J. Pi, J. Wang, L. Zhou, ``Instance-specific and Model-adaptive Supervision for Semi-supervised Semantic Segmentation", CVPR, 2023
