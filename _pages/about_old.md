@@ -1,12 +1,3 @@
----
-permalink: /
-title: ""
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
 Zhen ZHAO (赵振) is a Ph.D. candidate in Electrical and Information Engineering at the [University of Sydney (USYD)](https://www.sydney.edu.au/). 
 He is advised by Prof. [Luping Zhou](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/luping-zhou.html) and Prof. [Wanli Ouyang](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/wanli-ouyang.html) from the USYD and Prof. [Lei Wang](https://scholars.uow.edu.au/display/lei_wang) from the University of Wollongong, Australia. He also works closely with Prof. [Changyan Yi](http://inet-nuaa.cn/changyan-yi/) from the Nanjing University of Aeronautics and Astronautics on stochastic optimization and game theory with applications on wireless networks. His current research mainly focuses on developing multimodal foundation models for reasoning and decision-making tasks, as well as exploring semi/self-supervised learning techniques for label-efficient perception.
