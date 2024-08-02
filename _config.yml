@@ -84,7 +84,8 @@ author:
   name             : "Zhen ZHAO"
   avatar           : "profile.jpg"
   # bio              : "Ph.D. @ USYD"
-  bio              : "Researcher @ PJLab & HRLab"
+  # bio              : "Researcher @ PJLab & HRLab"
+  bio              : "Researcher in ML/CV/PR"
   # location         : "Sydney, AU"
   location         : 
   employer         : "Shanghai AI Lab"
