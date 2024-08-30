@@ -13,18 +13,19 @@ Zhen ZHAO (赵振) has been with the [OpenEarthLab](https://science.openxlab.org
 <font color="red"><strong>Prospective Interns:</strong></font> 1) senior students in heterogeneous graph learning / graph foundation models for solving power/energy related issues from the data-driven perspective. 2) self-motivated junior students, who may seek the oppotunitity of [Joint Training Ph.D. Project](https://www.shlab.org.cn/enrollment), supervised by Prof. [Lei Bai](http://leibai.site/).
 
 
-
 ## News
 
-- [07/2024] Our paper ([MPL]()) on the fast adaptation of VLMs is accepted by IJCV.
+- [08/2024] Our paper ([Anim-Director](https://github.com/HITsz-TMG/Anim-Director)) on LLM agent for vieo generation is accepted by SIGGRAPH Asia 2024.
+- [08/2024] Our paper ([MPL]()) on the fast adaptation of VLMs is accepted by IJCV.
+- [08/2024] Our paper [GPT4Video](https://gpt4video.github.io/) is selected as Oral presentation by ACM MM 2024.
 - [07/2024] Two papers on LLM for video understanding & generation ([GPT4Video](https://gpt4video.github.io/)) and a benchmark of small object editing ([SoEBench]()) are accepcted by ACM MM 2024.
 - [07/2024] Our paper on LLM for autonomous driving ([DriveGPT4](https://tonyxuqaq.github.io/projects/DriveGPT4/)) is accepted by IEEE RA-L.
 - [07/2024] Two papers on semi-supervised segmentation ([AD-MT](https://github.com/zhenzhao/AD-MT)) and unsupervised domain adaptation for point clould ([PCFEA](https://github.com/xiaoyao3302/PCFEA)) are accpected by ECCV 2024. 
-- [12/2023] Our paper on semi-supervised fine-grained learning ([SoC4SS](https://github.com/NJUyued/SoC4SS-FGVC)) is accepted by AAAI 2024.
 
 <details>
   <summary>----- <em>show more</em> ----</summary>
   <ul style="list-style-type: ">
+    <li>[12/2023] Our paper SoC4SS on semi-supervised fine-grained learning is accepted by AAAI 2024. </li>
     <li>[07/2023] Four papers on semi-supervised learning and fast adaptation of large foundation model are accepted by ICCV 2023 (one is selected as <strong>Oral</strong>). </li>
   	<li>[07/2023] Our paper on semi- and barely- supervised learning is accepted by ACM MM 2023.</li>
   	<li>[02/2023] Four papers on semi-supervised semantic segmentation and efficient Vision Transformer pruning are accepted by CVPR 2023.</li>
@@ -68,6 +69,7 @@ Zhen ZHAO (赵振) has been with the [OpenEarthLab](https://science.openxlab.org
   - IEEE International Conference on Computer Vision (ICCV)
   - European Conference on Computer Vision (ECCV)
   - Neural Information Processing Systems (NeurIPS)
+  - International Conference on Learning Representations (ICLR)
   - AAAI Conference on Artificial Intelligence (AAAI)
 - Journal Reviewer
   - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
