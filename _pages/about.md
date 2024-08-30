@@ -15,7 +15,7 @@ Zhen ZHAO (赵振) has been with the [OpenEarthLab](https://science.openxlab.org
 
 ## News
 
-- [08/2024] Our paper ([Anim-Director](https://github.com/HITsz-TMG/Anim-Director)) on LLM agent for vieo generation is accepted by SIGGRAPH Asia 2024.
+- [08/2024] Our paper ([Anim-Director](https://github.com/HITsz-TMG/Anim-Director)) on LLM agent for video generation is accepted by SIGGRAPH Asia 2024.
 - [08/2024] Our paper ([MPL]()) on the fast adaptation of VLMs is accepted by IJCV.
 - [08/2024] Our paper [GPT4Video](https://gpt4video.github.io/) is selected as Oral presentation by ACM MM 2024.
 - [07/2024] Two papers on LLM for video understanding & generation ([GPT4Video](https://gpt4video.github.io/)) and a benchmark of small object editing ([SoEBench]()) are accepcted by ACM MM 2024.
