@@ -18,11 +18,12 @@ author_profile: true
 
 - **Zhen Zhao**, Z. Wang, Longyue Wang $\dagger$, Dian Yu, Yixuan Yuan, Luping Zhou, "Alternate Diverse Teaching for Semi-supervised Medical Image Segmentation", ECCV, 2024.
 - Zicheng Wang, **Zhen Zhao**, Yiming Wu, Luping Zhou, Dong Xu $\dagger$, "Progressive Target-Styled Feature Augmentation for Unsupervised Domain Adaptation on Point Clouds", ECCV, 2024.
+- Yunxin Li, Haoyuan Shi, Baotian Hu $\dagger$, Longyue Wang $\dagger$, Jiashun Zhu, Jinyi Xu, **Zhen Zhao**, Min Zhang, "Anim-Director: A Large Multimodal Model Powered Agent for Controllable Animation Video Generation", SIGGRAPH Asia, 2024.
 - Sifan Long\*, **Zhen Zhao\***, Junkun Yuan*, Zichang Tan, Jiangjiang Liu, J. Feng, Shengsheng Wang $\dagger$ and Jingdong Wang $\dagger$,"Mutual Prompt Leaning for Vision Language Models", IJCV, 2024 (accepted).
 - Duan, Yue, **Zhen Zhao**, Lei Qi, Luping Zhou, Lei Wang, and Yinghuan Shi $\dagger$. "Roll with the Punches: Expansion and Shrinkage of Soft Label Selection for Semi-supervised Fine-Grained Learning." In *Proceedings of the AAAI Conference on Artificial Intelligence*, vol. 38, no. 10, pp. 11829-11837. 2024.
 - Zhenhua Xu, Yujia Zhang, Enze Xie, **Zhen Zhao**, Yong Guo, Kenneth KY Wong, Zhenguo Li, and Hengshuang Zhao $\dagger$. "Drivegpt4: Interpretable end-to-end autonomous driving via large language model.",  *IEEE Robotics and Automation Letters*, 2024 (accepted).
 - Qihe Pan, **Zhen Zhao**, Zicheng Wang, Sifan Long, Yiming Wu $\dagger$, Wei Ji, and Ronghua Liang. "Towards Small Object Editing: A Benchmark Dataset and A Training-Free Approach", ACM MM 2024.
-- Zhanyu Wang, Longyue Wang, **Zhen Zhao**, Minghao Wu, Chenyang Lyu, Huayang Li, Deng Cai, Luping Zhou $\dagger$, Shuming Shi, and Zhaopeng Tu. "Gpt4video: A unified multimodal large language model for lnstruction-followed understanding and safety-aware generation", ACM MM 2024.
+- Zhanyu Wang, Longyue Wang, **Zhen Zhao**, Minghao Wu, Chenyang Lyu, Huayang Li, Deng Cai, Luping Zhou $\dagger$, Shuming Shi, and Zhaopeng Tu. "Gpt4video: A unified multimodal large language model for lnstruction-followed understanding and safety-aware generation", ACM MM (**Oral**) 2024.
 
 ## 2023
 
