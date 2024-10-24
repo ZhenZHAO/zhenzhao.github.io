@@ -14,10 +14,10 @@ Zhen ZHAO (赵振) has been with the [OpenEarthLab](https://science.openxlab.org
 
 
 ## News
-
+- [10/2024] Our paper [GPT4Video](https://gpt4video.github.io/) has been selected as Oral presentation and nominated for **Best paper** awards by [ACM MM 2024](https://2024.acmmm.org/best-paper).
+- [09/2024] Our paper [Depth Anything V2](https://depth-anything-v2.github.io/) is accepted by NeurIPS 2024 and integrated into [Apple Core ML Models](https://developer.apple.com/machine-learning/models/).
 - [08/2024] Our paper ([Anim-Director](https://github.com/HITsz-TMG/Anim-Director)) on LLM agent for video generation is accepted by SIGGRAPH Asia 2024.
 - [08/2024] Our paper ([MPL]()) on the fast adaptation of VLMs is accepted by IJCV.
-- [08/2024] Our paper [GPT4Video](https://gpt4video.github.io/) is selected as Oral presentation by ACM MM 2024.
 - [07/2024] Two papers on LLM for video understanding & generation ([GPT4Video](https://gpt4video.github.io/)) and a benchmark of small object editing ([SoEBench]()) are accepcted by ACM MM 2024.
 - [07/2024] Our paper on LLM for autonomous driving ([DriveGPT4](https://tonyxuqaq.github.io/projects/DriveGPT4/)) is accepted by IEEE RA-L.
 - [07/2024] Two papers on semi-supervised segmentation ([AD-MT](https://github.com/zhenzhao/AD-MT)) and unsupervised domain adaptation for point clould ([PCFEA](https://github.com/xiaoyao3302/PCFEA)) are accpected by ECCV 2024. 
@@ -50,7 +50,7 @@ Zhen ZHAO (赵振) has been with the [OpenEarthLab](https://science.openxlab.org
 
 
 ## Selected Honors
-
+- IEEE Trans. on Medical Imaging Distinguished Reviewer, 2024
 - DAAD AInet fellow for the Postdoc-NeT-AI 11/2023 Networking Week on Human-centered AI, Germany, 2023
 - PhD International Mobility for Partnerships and Collaborations Award, CUHK, Hong Kong, 2023
 - Faculty of Engineering Research Scholarship @ USYD, 2020
