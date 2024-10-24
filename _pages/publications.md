@@ -9,7 +9,6 @@ author_profile: true
 
 ## Preprints
 - **Zhen Zhao**, Ye Liu, Meng Zhao, Di Yin, Yixuan Yuan, and Luping Zhou  $\dagger$. "Rethinking Data Perturbation and Model Stabilization for Semi-supervised Medical Image Segmentation." *arXiv preprint arXiv:[2308.11903](https://arxiv.org/abs/2308.11903)* (2023).
-- Lihe Yang, Bingyi Kang, Zilong Huang, **Zhen Zhao**, Xiaogang Xu, Jiashi Feng, and Hengshuang Zhao $\dagger$. "Depth Anything V2." *arXiv preprint arXiv:[2406.09414](https://arxiv.org/abs/2406.09414)* (2024).
 - Sifan Long, Linbin Wang, **Zhen Zhao**, Zichang Tan, Yiming Wu, Shengsheng Wang $\dagger$, and Jingdong Wang $\dagger$. "Training-Free Unsupervised Prompt for Vision-Language Models." *arXiv preprint arXiv:[2404.16339](https://arxiv.org/abs/2404.16339)* (2024).
 - Qihe Pan, Zicheng Wang, **Zhen Zhao**, Yiming Wu $\dagger$, Sifan Long, Haoran Liang, and Ronghua Liang. "SOEDiff: Efficient Distillation for Small Object Editing." *arXiv preprint arXiv:[2405.09114](https://arxiv.org/abs/2405.09114)* (2024).
 - Zicheng Wang, **Zhen Zhao**, Erjian Guo, and Luping Zhou $\dagger$. "Clean Label Disentangling for Medical Image Segmentation with Noisy Labels." *arXiv preprint arXiv:[2311.16580](https://arxiv.org/abs/2311.16580)* (2023).
@@ -18,6 +17,7 @@ author_profile: true
 
 - **Zhen Zhao**, Z. Wang, Longyue Wang $\dagger$, Dian Yu, Yixuan Yuan, Luping Zhou, "Alternate Diverse Teaching for Semi-supervised Medical Image Segmentation", ECCV, 2024.
 - Zicheng Wang, **Zhen Zhao**, Yiming Wu, Luping Zhou, Dong Xu $\dagger$, "Progressive Target-Styled Feature Augmentation for Unsupervised Domain Adaptation on Point Clouds", ECCV, 2024.
+- Lihe Yang, Bingyi Kang, Zilong Huang, **Zhen Zhao**, Xiaogang Xu, Jiashi Feng, and Hengshuang Zhao $\dagger$. "Depth Anything V2", NeurIPS, 2024.
 - Yunxin Li, Haoyuan Shi, Baotian Hu $\dagger$, Longyue Wang $\dagger$, Jiashun Zhu, Jinyi Xu, **Zhen Zhao**, Min Zhang, "Anim-Director: A Large Multimodal Model Powered Agent for Controllable Animation Video Generation", SIGGRAPH Asia, 2024.
 - Sifan Long\*, **Zhen Zhao\***, Junkun Yuan*, Zichang Tan, Jiangjiang Liu, J. Feng, Shengsheng Wang $\dagger$ and Jingdong Wang $\dagger$,"Mutual Prompt Leaning for Vision Language Models", IJCV, 2024 (accepted).
 - Duan, Yue, **Zhen Zhao**, Lei Qi, Luping Zhou, Lei Wang, and Yinghuan Shi $\dagger$. "Roll with the Punches: Expansion and Shrinkage of Soft Label Selection for Semi-supervised Fine-Grained Learning." In *Proceedings of the AAAI Conference on Artificial Intelligence*, vol. 38, no. 10, pp. 11829-11837. 2024.
