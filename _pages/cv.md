@@ -13,8 +13,8 @@ redirect_from:
 Work experience
 ======
 
-- June 2024 ~ Present : Researcher
-  * Pujiang Laboratory (Shanghai AI Lab) & Huairou Laboratory
+- June 2024 ~ Present: Researcher
+  * Shanghai AI Lab & Huairou Laboratory
   * Leader: [Wanli Ouyang](https://wlouyang.github.io/) and [Lei Bai](http://leibai.site/)
 
 * July 2017 ~ Mar. 2019: SKA Software Engineer (full-time)
