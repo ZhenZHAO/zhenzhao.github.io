@@ -10,7 +10,7 @@ redirect_from:
 
 Zhen ZHAO (赵振) has been with the [OpenEarthLab](https://science.openxlab.org.cn/) at the [Shanghai AI Laboratory](), and the [New Power System Research Center](https://www.hrl.ac.cn/4.html) at the [Huairou Laboratory](https://www.hrl.ac.cn/), as a Researcher, since June 2024. Dr. ZHAO obtained his Ph.D. from the School of Electrical and Computer Engineering, the [University of Sydney (USYD)](https://www.sydney.edu.au/), under the supervision of Prof. [Luping Zhou](https://sites.google.com/view/lupingzhou) and Prof. [Wanli Ouyang](https://wlouyang.github.io/) from the USYD and Prof. [Lei Wang](https://scholars.uow.edu.au/display/lei_wang) from the University of Wollongong. His research interests include exploring semi/self-supervised learning techniques for label-efficient perception and developing multimodal foundation models for reasoning & decision-making tasks. Most recently, he focuses on AI for Energy\& Healthcare, especially grid state estimation, trustworthy energy operations, and agent-based decision-making.
 
-<font color="red"><strong>Prospective Interns:</strong></font> 1) senior students in heterogeneous graph learning / graph foundation models for solving power/energy related issues from the data-driven perspective. 2) self-motivated junior students, who may seek the opportunity of [Joint Training Ph.D. Project](https://www.shlab.org.cn/enrollment), supervised by Prof. [Lei Bai](http://leibai.site/).
+<font color="red"><strong>Prospective Interns:</strong></font> 1) senior students in heterogeneous graph learning/graph foundation models for solving power/energy related issues from the data-driven perspective. 2) self-motivated junior students, who may seek the opportunity of [Joint Training Ph.D. Project](https://www.shlab.org.cn/enrollment), supervised by Prof. [Lei Bai](http://leibai.site/).
 
 
 ## News
@@ -25,11 +25,11 @@ Zhen ZHAO (赵振) has been with the [OpenEarthLab](https://science.openxlab.org
 <details>
   <summary>----- <em>show more</em> ----</summary>
   <ul style="list-style-type: ">
-    <li>[08/2024] Our paper ([MPL]()) on the fast adaptation of VLMs is accepted by IJCV.
-    <li>[07/2024] Two papers on semi-supervised segmentation ([AD-MT](https://github.com/zhenzhao/AD-MT)) and unsupervised domain adaptation for point clould ([PCFEA](https://github.com/xiaoyao3302/PCFEA)) are accpected by ECCV 2024. 
+    <li>[08/2024] Our MPL on the fast adaptation of VLMs is accepted by IJCV. </li>
+    <li>[07/2024] Two papers on semi-supervised segmentation (AD-MT) and unsupervised domain adaptation for point cloud (PCFEA) are accepted by ECCV 2024. </li>
     <li>[12/2023] Our paper SoC4SS on semi-supervised fine-grained learning is accepted by AAAI 2024. </li>
-    <li>[07/2023] Four papers on semi-supervised learning and fast adaptation of large foundation model are accepted by ICCV 2023 (one is selected as <strong>Oral</strong>). </li>
-  	<li>[07/2023] Our paper on semi- and barely- supervised learning is accepted by ACM MM 2023.</li>
+    <li>[07/2023] Four papers on semi-supervised learning and fast adaptation of large foundation models are accepted by ICCV 2023 (one is selected as <strong>Oral</strong>). </li>
+  	<li>[07/2023] Our paper on semi- and barely-supervised learning is accepted by ACM MM 2023.</li>
   	<li>[02/2023] Four papers on semi-supervised semantic segmentation and efficient Vision Transformer pruning are accepted by CVPR 2023.</li>
     <li>[11/2022] Our paper on barely-supervised Learning is accepted by NIPS 2022 (<strong>Spotlight</strong>).</li>
     <li>[03/2022] Our paper on mismatched semi-supervised Learning is accepted by CVPR 2022.</li>
@@ -37,7 +37,6 @@ Zhen ZHAO (赵振) has been with the [OpenEarthLab](https://science.openxlab.org
     <li>[01/2021] Registered as a Ph.D. Student @ USYD after a 2-year break.</li>
   </ul>
 </details>
-
 
 
 ## Selected Publications
