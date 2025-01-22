@@ -10,8 +10,12 @@ author_profile: true
 ## Preprints
 - **Zhen Zhao**, Ye Liu, Meng Zhao, Di Yin, Yixuan Yuan, and Luping Zhou  $\dagger$. "Rethinking Data Perturbation and Model Stabilization for Semi-supervised Medical Image Segmentation." *arXiv preprint arXiv:[2308.11903](https://arxiv.org/abs/2308.11903)* (2023).
 - Sifan Long, Linbin Wang, **Zhen Zhao**, Zichang Tan, Yiming Wu, Shengsheng Wang $\dagger$, and Jingdong Wang $\dagger$. "Training-Free Unsupervised Prompt for Vision-Language Models." *arXiv preprint arXiv:[2404.16339](https://arxiv.org/abs/2404.16339)* (2024).
-- Qihe Pan, Zicheng Wang, **Zhen Zhao**, Yiming Wu $\dagger$, Sifan Long, Haoran Liang, and Ronghua Liang. "SOEDiff: Efficient Distillation for Small Object Editing." *arXiv preprint arXiv:[2405.09114](https://arxiv.org/abs/2405.09114)* (2024).
 - Zicheng Wang, **Zhen Zhao**, Erjian Guo, and Luping Zhou $\dagger$. "Clean Label Disentangling for Medical Image Segmentation with Noisy Labels." *arXiv preprint arXiv:[2311.16580](https://arxiv.org/abs/2311.16580)* (2023).
+
+## 2025
+- Yiming Wu, Qihe Pan, **Zhen Zhao** $\dagger$, Zicheng Wang, Sifan Long, Ronghua Liang, "SOEDiff: Efficient Distillation for Small Object Editing", ToMM, 2025.
+- Baoqiang Lao, Heinz Andernach, Xiaolong Yang, Xiang Zhang, Rushuang Zhao, **Zhen Zhao**, Yun Yu, Xiaohui Sun, Sheng-Li Qin, "Identification of 4876 Bent-tail Radio Galaxies in the FIRST Survey Using Deep Learning Combined with Visual Inspection", Astrophysical Journal Supplement Series (APJS), 2025
+- Lihe Yang, **Zhen Zhao** $\dagger$, Hengshuang Zhao $\dagger$, "UniMatch V2: Pushing the Limit of Semi-Supervised Semantic Segmentation", TPAMI, 2025.
 
 ## 2024
 
@@ -23,7 +27,8 @@ author_profile: true
 - Duan, Yue, **Zhen Zhao**, Lei Qi, Luping Zhou, Lei Wang, and Yinghuan Shi $\dagger$. "Roll with the Punches: Expansion and Shrinkage of Soft Label Selection for Semi-supervised Fine-Grained Learning." In *Proceedings of the AAAI Conference on Artificial Intelligence*, vol. 38, no. 10, pp. 11829-11837. 2024.
 - Zhenhua Xu, Yujia Zhang, Enze Xie, **Zhen Zhao**, Yong Guo, Kenneth KY Wong, Zhenguo Li, and Hengshuang Zhao $\dagger$. "Drivegpt4: Interpretable end-to-end autonomous driving via large language model.",  *IEEE Robotics and Automation Letters*, 2024 (accepted).
 - Qihe Pan, **Zhen Zhao**, Zicheng Wang, Sifan Long, Yiming Wu $\dagger$, Wei Ji, and Ronghua Liang. "Towards Small Object Editing: A Benchmark Dataset and A Training-Free Approach", ACM MM 2024.
-- Zhanyu Wang, Longyue Wang, **Zhen Zhao**, Minghao Wu, Chenyang Lyu, Huayang Li, Deng Cai, Luping Zhou $\dagger$, Shuming Shi, and Zhaopeng Tu. "Gpt4video: A unified multimodal large language model for lnstruction-followed understanding and safety-aware generation", ACM MM (**Oral**) 2024.
+- Zhanyu Wang, Longyue Wang, **Zhen Zhao**, Minghao Wu, Chenyang Lyu, Huayang Li, Deng Cai, Luping Zhou $\dagger$, Shuming Shi, and Zhaopeng Tu. "Gpt4video: A unified multimodal large language model for instruction-followed understanding and safety-aware generation", ACM MM (**Oral, Best Paper Candidates**) 2024.
+- Erjian Guo, Zicheng Wang, **Zhen Zhao**, Luping Zhou*,   "Imbalanced Medical Image Segmentation with Pixel-dependent Noisy Labels", IEEE Transactions on Medical Imaging (IEEE-TMI), 2024
 
 ## 2023
 
@@ -31,7 +36,7 @@ author_profile: true
 - Sifan Long*,  **Zhen Zhao**\*, Jimin Pi, Shengsheng Wang $\dagger$, Jingdong Wang $\dagger$, "Beyond Attentive Tokens: Incorporating Token Importance and Diversity for Efficient Vision Transformers", CVPR, 2023
 - **Zhen Zhao**\*, Sifan Long*, Jimin Pi, Jingdong Wang $\dagger$, Luping Zhou $\dagger$, "Instance-specific and Model-adaptive Supervision for Semi-supervised Semantic Segmentation", CVPR, 2023
 - Zicheng Wang, **Zhen Zhao**, Xiaoxia Xing, Dong Xu, Xiangyu Kong, and Luping Zhou $\dagger$, "Conflict-Based Cross-View Consistency for Semi-Supervised Semantic Segmentation", CVPR, 2023
-- **Zhen Zhao**, Meng Zhao, Ye Liu, Di Yin, Luping Zhou $\dagger$, "Entropy-based Optimization on Individual and Global Predictions for Semi-Supervised Learning", ACMMM, 2023
+- **Zhen Zhao**, Meng Zhao, Ye Liu, Di Yin, Luping Zhou $\dagger$, "Entropy-based Optimization on Individual and Global Predictions for Semi-Supervised Learning", ACM MM, 2023
 - Sifan Long*,  **Zhen Zhao**\*,  Junkun Yuan, Zichang Tan,  Jiangjiang Liu, Luping Zhou, Shengsheng Wang $\dagger$, Jingdong Wang $\dagger$, "Task-Oriented Multi-Modal Mutual Leaning for Vision-Language Models", ICCV, 2023
 - Lihe Yang, **Zhen Zhao**, Lei Qi, Yu Qiao, Yinghuan Shi, Hengshuang Zhao $\dagger$, "Shrinking Class Space for Enhanced Certainty in Semi-Supervised Learning", ICCV, 2023
 - Guan Gui, **Zhen Zhao**, Lei Qi, Luping Zhou, Lei Wang, Yinghuan Shi $\dagger$, "Enhancing Sample Utilization through Sample Adaptive Augmentation in Semi-Supervised Learning", ICCV (**Oral**), 2023 
