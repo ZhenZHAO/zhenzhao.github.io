@@ -13,13 +13,16 @@ author_profile: true
 - Zicheng Wang, **Zhen Zhao**, Erjian Guo, and Luping Zhou $\dagger$. "Clean Label Disentangling for Medical Image Segmentation with Noisy Labels." *arXiv preprint arXiv:[2311.16580](https://arxiv.org/abs/2311.16580)* (2023).
 
 ## 2025
-- Yiming Wu, Qihe Pan, **Zhen Zhao** $\dagger$, Zicheng Wang, Sifan Long, Ronghua Liang, "SOEDiff: Efficient Distillation for Small Object Editing", ToMM, 2025.
+
+- Erjian Guo, **Zhen Zhao**, Zicheng Wang, Tong Chen, Yunyi Liu, and Luping Zhou $\dagger$, "DiN: Diffusion Model for Robust Medical VQA with Semantic Noisy Labels", The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),  2025.
+- Songtao Huang, **Zhen Zhao**, Can Li, Lei Bai $\dagger$, "TimeKAN: KAN-based Frequency Decomposition Learning Architecture for Long-term Time Series Forecasting", The Thirteenth International Conference on Learning Representations (ICLR), 2025.
+- Yiming Wu, Qihe Pan, **Zhen Zhao** $\dagger$, Zicheng Wang, Sifan Long, Ronghua Liang $\dagger$, "SOEDiff: Efficient Distillation for Small Object Editing", ToMM, 2025.
 - Baoqiang Lao, Heinz Andernach, Xiaolong Yang, Xiang Zhang, Rushuang Zhao, **Zhen Zhao**, Yun Yu, Xiaohui Sun, Sheng-Li Qin, "Identification of 4876 Bent-tail Radio Galaxies in the FIRST Survey Using Deep Learning Combined with Visual Inspection", Astrophysical Journal Supplement Series (APJS), 2025
 - Lihe Yang, **Zhen Zhao** $\dagger$, Hengshuang Zhao $\dagger$, "UniMatch V2: Pushing the Limit of Semi-Supervised Semantic Segmentation", TPAMI, 2025.
 
 ## 2024
 
-- **Zhen Zhao**, Z. Wang, Longyue Wang $\dagger$, Dian Yu, Yixuan Yuan, Luping Zhou, "Alternate Diverse Teaching for Semi-supervised Medical Image Segmentation", ECCV, 2024.
+- **Zhen Zhao**, Zicheng Wang, Longyue Wang $\dagger$, Dian Yu, Yixuan Yuan, Luping Zhou, "Alternate Diverse Teaching for Semi-supervised Medical Image Segmentation", ECCV, 2024.
 - Zicheng Wang, **Zhen Zhao**, Yiming Wu, Luping Zhou, Dong Xu $\dagger$, "Progressive Target-Styled Feature Augmentation for Unsupervised Domain Adaptation on Point Clouds", ECCV, 2024.
 - Lihe Yang, Bingyi Kang, Zilong Huang, **Zhen Zhao**, Xiaogang Xu, Jiashi Feng, and Hengshuang Zhao $\dagger$. "Depth Anything V2", NeurIPS, 2024.
 - Yunxin Li, Haoyuan Shi, Baotian Hu $\dagger$, Longyue Wang $\dagger$, Jiashun Zhu, Jinyi Xu, **Zhen Zhao**, Min Zhang, "Anim-Director: A Large Multimodal Model Powered Agent for Controllable Animation Video Generation", SIGGRAPH Asia, 2024.
