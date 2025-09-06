@@ -8,24 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-Zhen ZHAO (赵振) has been with the [OpenEarthLab](https://science.openxlab.org.cn/) at the [Shanghai AI Laboratory](), and the [New Power System Research Center](https://www.hrl.ac.cn/4.html) at the [Huairou Laboratory](https://www.hrl.ac.cn/), as a Researcher, since June 2024. Dr. ZHAO obtained his Ph.D. from the School of Electrical and Computer Engineering, the [University of Sydney (USYD)](https://www.sydney.edu.au/), under the supervision of Prof. [Luping Zhou](https://sites.google.com/view/lupingzhou) and Prof. [Wanli Ouyang](https://wlouyang.github.io/) from the USYD and Prof. [Lei Wang](https://scholars.uow.edu.au/display/lei_wang) from the University of Wollongong. His research interests include exploring semi/self-supervised learning techniques for label-efficient perception and developing multimodal foundation models for reasoning & decision-making tasks. Most recently, he focuses on AI for Energy\& Healthcare, especially grid state estimation, trustworthy energy operations, and agent-based decision-making.
+Zhen ZHAO (赵振) has been with the [AI for Science Center](https://science.openxlab.org.cn/) at the [Shanghai AI Laboratory](https://www.shlab.org.cn/), and the [New Power System Research Center](https://www.hrl.ac.cn/4.html) at the [Huairou Laboratory](https://www.hrl.ac.cn/), as a Researcher, since June 2024. Dr. ZHAO obtained his Ph.D. from the School of Electrical and Computer Engineering, the [University of Sydney (USYD)](https://www.sydney.edu.au/), under the supervision of Prof. [Luping Zhou](https://sites.google.com/view/lupingzhou) and Prof. [Wanli Ouyang](https://wlouyang.github.io/) from the USYD and Prof. [Lei Wang](https://scholars.uow.edu.au/display/lei_wang) from the University of Wollongong. His research interests include exploring semi/self-supervised learning techniques for label-efficient perception and developing multimodal foundation models for reasoning & decision-making tasks. Most recently, he focuses on AI for Energy\& Healthcare, especially grid state estimation, trustworthy energy operations, and agent-based decision-making.
 
-<font color="red"><strong>Prospective Interns:</strong></font> 1) senior students in heterogeneous graph learning/graph foundation models for solving power/energy related issues from the data-driven perspective. 2) self-motivated junior students, who may seek the opportunity of [Joint Training Ph.D. Project](https://www.shlab.org.cn/enrollment), supervised by Prof. [Lei Bai](http://leibai.site/).
+<font color="red"><strong>Prospective Interns:</strong></font> 1) senior students in unified multimodal perception and generation for Science Discovery 2) senior students in heterogeneous graph learning/graph foundation models for solving power/energy related issues from the data-driven perspective. 3) self-motivated junior students, who may seek the opportunity of [Joint Training Ph.D. Project](https://www.shlab.org.cn/enrollment), supervised by Prof. [Lei Bai](http://leibai.site/).
 
 
 ## News
+- [03/2025] Our [DiN]() on Noisy VQA and [TimeKan](https://github.com/huangst21/TimeKAN) on time series forecasting are accepted by CVPR 2025 and ICLR 2025, respectively.
 - [01/2025] Our [UniMatch V2](https://github.com/LiheYoung/UniMatch-V2) on semi-supervised segmentation is accepted by TPAMI and our study on radio galaxies identification is accepted by APJS.
 - [01/2025] Our [SoeDiff](https://github.com/panqihe-zjut/SOEDiff) on small object editing is accepted by ToMM, and [CLCS](https://arxiv.org/abs/2501.06678) on noisy segmentation is accepted by TMI.
 - [10/2024] Our [GPT4Video](https://gpt4video.github.io/) has been selected as Oral presentation and nominated for **Best paper** awards by [ACM MM 2024](https://2024.acmmm.org/best-paper).
 - [09/2024] Our paper [Depth Anything V2](https://depth-anything-v2.github.io/) is accepted by NeurIPS 2024 and integrated into [Apple Core ML Models](https://developer.apple.com/machine-learning/models/).
 - [08/2024] Our paper ([Anim-Director](https://github.com/HITsz-TMG/Anim-Director)) on LLM agent for video generation is accepted by SIGGRAPH Asia 2024.
-- [07/2024] Two papers on LLM for video understanding & generation ([GPT4Video](https://gpt4video.github.io/)) and a benchmark of small object editing ([SoEBench](https://soebench.github.io/)) are accepcted by ACM MM 2024.
-- [07/2024] Our paper on LLM for autonomous driving ([DriveGPT4](https://tonyxuqaq.github.io/projects/DriveGPT4/)) is accepted by IEEE RA-L.
+
 
 <details>
   <summary>----- <em>show more</em> ----</summary>
   <ul style="list-style-type: ">
     <li>[08/2024] Our MPL on the fast adaptation of VLMs is accepted by IJCV. </li>
+    <li>[07/2024] Two papers on LLM for video understanding & generation and a benchmark of small object editing (https://soebench.github.io/) are accepcted by ACM MM 2024.</li>
+    <li>[07/2024] Our paper on LLM for autonomous driving is accepted by IEEE RA-L. </li>
     <li>[07/2024] Two papers on semi-supervised segmentation (AD-MT) and unsupervised domain adaptation for point cloud (PCFEA) are accepted by ECCV 2024. </li>
     <li>[12/2023] Our paper SoC4SS on semi-supervised fine-grained learning is accepted by AAAI 2024. </li>
     <li>[07/2023] Four papers on semi-supervised learning and fast adaptation of large foundation models are accepted by ICCV 2023 (one is selected as <strong>Oral</strong>). </li>
@@ -74,6 +76,7 @@ Zhen ZHAO (赵振) has been with the [OpenEarthLab](https://science.openxlab.org
   - International Conference on Machine Learning (ICML)
 - Journal Reviewer
   - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+  - IEEE Transactions on Image Processing (TIP)
   - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
   - IEEE Transactions on Medical Imaging (TMI)
   - Medical Image Analysis (MedIA)
