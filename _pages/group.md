@@ -5,6 +5,27 @@ permalink: /group/
 author_profile: true
 ---
 
+<p align="center">
+  <i>"The important thing is not to stop questioning."</i>
+</p>
+
+<div align="right">
+
+— Albert Einstein
+
+</div>
+
+<p align="center">
+  <i>"Thoroughly conscious ignorance is the prelude to every real advance in science."</i>
+</p>
+
+<div align="right">
+
+— James Clerk Maxwell
+
+</div>
+
+We question？we explore! We build beyond what is known.
 
 Research Interests
 ======
