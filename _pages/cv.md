@@ -53,6 +53,8 @@ Internship experience
 
 Scholarships and Awards
 ======
+- Silver Reviewer, ICML, 2026
+- Shanghai Post-doctoral excellence program, Shanghai, 2024
 - Distinguished Reviewer, IEEE Transaction on Medical Imaging, 2024
 - DAAD AInet fellow for the Postdoc-NeT-AI on Human-centered AI, Germany, 2023
 - PhD International Mobility for Partnerships and Collaborations Award, CUHK, 2023
