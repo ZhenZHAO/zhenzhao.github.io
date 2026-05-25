@@ -12,6 +12,12 @@ author_profile: true
 - Sifan Long, Linbin Wang, **Zhen Zhao**, Zichang Tan, Yiming Wu, Shengsheng Wang $\dagger$, and Jingdong Wang $\dagger$. "Training-Free Unsupervised Prompt for Vision-Language Models." *arXiv preprint arXiv:[2404.16339](https://arxiv.org/abs/2404.16339)* (2024).
 - Zicheng Wang, **Zhen Zhao**, Erjian Guo, and Luping Zhou $\dagger$. "Clean Label Disentangling for Medical Image Segmentation with Noisy Labels." *arXiv preprint arXiv:[2311.16580](https://arxiv.org/abs/2311.16580)* (2023).
 
+## 2026
+
+- Wenqi Huang, Bo Zhao, Yihang Liu, Qiaoqiao Li, Jiaxuan Hou, Rui Su, **Zhen Zhao** $\dagger$，"Power System Operational Risk Assessment and Reasoning Method Based on Large Language Models", 电力系统自动化, 2026.
+- Qinghe Ma, **Zhen Zhao** $\dagger$, Yiming Wu, Jian Zhang, LEI BAI, Yinghuan Shi. Are Tools Always Beneficial? Learning to Invoke Tools Adaptively for Dual-Mode Multimodal LLM Reasoning. Forty-Third International Conference on Machine Learning (ICML), 2026.
+- Lihe Yang, **Zhen Zhao** $\dagger$, Hengshuang Zhao，"SigLIP-HD by Fine-to-Coarse Supervision", International Conference on Learning Representations (ICLR), 2026
+
 ## 2025
 
 - Erjian Guo, **Zhen Zhao**, Zicheng Wang, Tong Chen, Yunyi Liu, and Luping Zhou $\dagger$, "DiN: Diffusion Model for Robust Medical VQA with Semantic Noisy Labels", The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),  2025.
