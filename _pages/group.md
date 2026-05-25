@@ -6,6 +6,16 @@ author_profile: true
 ---
 
 
+Research Interests
+======
+- AI for Scientific Discovery, Material, Protein, Energy, Earth
+- Multimodal Large Language Models (MLLMs)
+- Reinforcement Learning and AI Agents
+- Diffusion and Generative Models
+- LLMs for Large-scale Decision-making & Optimization
+
+**Feel free to reach out if you are interested in joint PhD opportunities, internships, or research collaborations.**
+
 Full-time Researchers
 ======
 
@@ -29,22 +39,15 @@ PhD Students
 
 Interns
 ======
-- Qinghe Ma, NJU
 - Yuhan Li, NJU
 - Xiran Wang, NJU
 - Yiran Zhang, SJTU
 - Xiangdong Wu, BUAA
 
 
-Research Interests
+Former Interns
 ======
-- AI for Scientific Discovery, Material, Protein, Energy, Earth
-- Multimodal Large Language Models (MLLMs)
-- Reinforcement Learning and AI Agents
-- Diffusion and Generative Models
-- LLMs for Large-scale Decision-making
-
-
-**Feel free to reach out if you are interested in joint PhD opportunities, internships, or research collaborations.**
-
-
+- [Lihe Yang](https://liheyoung.github.io/), HKU
+- [Zicheng Wang](https://xiaoyao3302.github.io/), UCL
+- [Qinghe Ma](https://mqinghe.github.io/), NJU
+- Ye Liu, ByteDance
