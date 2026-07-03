@@ -46,6 +46,9 @@ Full-time Researchers
 - [Linjian Meng](https://menglinjian.github.io/)  
   Reinforcement Learning and Decision-making Systems
 
+- [Yifan Sun](https://github.com/simon32123)
+  Self-Improvement Large Language Models and Agents
+
 - [Mingxiao Li](https://mingxiao-li.github.io/)  
   Diffusion Models and Generative Modeling
 
@@ -55,15 +58,15 @@ PhD Students
 
 - Sizhe Zhang, Zhejiang University
 - Ziyang Ding, Shanghai Jiao Tong University
-- Zitang Gou, Fudan University
 
 
 Interns
 ======
 - Yuhan Li, NJU
+- Xiangdong Wu, BUAA
+- Zitang Gou, Fudan
 - Xiran Wang, NJU
 - Yiran Zhang, SJTU
-- Xiangdong Wu, BUAA
 
 
 Former Interns
@@ -71,4 +74,6 @@ Former Interns
 - [Lihe Yang](https://liheyoung.github.io/), HKU
 - [Zicheng Wang](https://xiaoyao3302.github.io/), UCL
 - [Qinghe Ma](https://mqinghe.github.io/), NJU
-- Ye Liu, ByteDance
+- [Ye Liu](https://github.com/yeyeyeye33), ByteDance
+
+
