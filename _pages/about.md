@@ -14,17 +14,21 @@ Zhen ZHAO (赵振) has been with the [AI for Science Center](https://science.ope
 
 
 ## News
+- [08/2026] Our [Senseflow](https://github.com/ZhenZHAO/SenseFlow) and [Q-flow](https://github.com/ZhenZHAO/SenseFlow) on power flow estimation are accepted by CIKM full research, 2026.
+- [07/2026] Our [Dpms](https://github.com/ZhenZHAO/DPMS) on Semi-supervised medical imaging segmentation is accepted by WAICA
+- [03/2026] Our [SigLIP-HD](https://github.com/LiheYoung/SigLIP-HD) on MLLM and [AutoTool](https://github.com/MQinghe/AutoTool) on thinking w/ images agents are accepted by ICLR 2026 and ICML 2026, respectively.
 - [03/2025] Our [DiN]() on Noisy VQA and [TimeKan](https://github.com/huangst21/TimeKAN) on time series forecasting are accepted by CVPR 2025 and ICLR 2025, respectively.
 - [01/2025] Our [UniMatch V2](https://github.com/LiheYoung/UniMatch-V2) on semi-supervised segmentation is accepted by TPAMI and our study on radio galaxies identification is accepted by APJS.
 - [01/2025] Our [SoeDiff](https://github.com/panqihe-zjut/SOEDiff) on small object editing is accepted by ToMM, and [CLCS](https://arxiv.org/abs/2501.06678) on noisy segmentation is accepted by TMI.
-- [10/2024] Our [GPT4Video](https://gpt4video.github.io/) has been selected as Oral presentation and nominated for **Best paper** awards by [ACM MM 2024](https://2024.acmmm.org/best-paper).
-- [09/2024] Our paper [Depth Anything V2](https://depth-anything-v2.github.io/) is accepted by NeurIPS 2024 and integrated into [Apple Core ML Models](https://developer.apple.com/machine-learning/models/).
-- [08/2024] Our paper ([Anim-Director](https://github.com/HITsz-TMG/Anim-Director)) on LLM agent for video generation is accepted by SIGGRAPH Asia 2024.
+
 
 
 <details>
   <summary>----- <em>show more</em> ----</summary>
   <ul style="list-style-type: ">
+    <li>[10/2024] Our [GPT4Video](https://gpt4video.github.io/) has been selected as Oral presentation and **nominated for Best paper** awards by [ACM MM 2024](https://2024.acmmm.org/best-paper).</li>
+    <li>[09/2024] Our paper [Depth Anything V2](https://depth-anything-v2.github.io/) is accepted by NeurIPS 2024 and integrated into [Apple Core ML Models](https://developer.apple.com/machine-learning/models/).</li>
+    <li>[08/2024] Our paper Anim-Director on LLM agent for video generation is accepted by SIGGRAPH Asia 2024.</li>
     <li>[08/2024] Our MPL on the fast adaptation of VLMs is accepted by IJCV. </li>
     <li>[07/2024] Two papers on LLM for video understanding & generation and a benchmark of small object editing (https://soebench.github.io/) are accepcted by ACM MM 2024.</li>
     <li>[07/2024] Our paper on LLM for autonomous driving is accepted by IEEE RA-L. </li>
