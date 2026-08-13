@@ -9,14 +9,16 @@ author_profile: true
 
 ## Preprints
 - Ziyang Ding, Linjian Meng, Yiming Wu, Yuhan Li, Yuhao Liu, **Zhen Zhao** $\dagger$, "CoLVR: Enhancing Exploratory Latent Visual Reasoning via Contrastive Optimization", arXiv:[2605.08802](https://arxiv.org/abs/2605.08802) 
-- **Zhen Zhao**, Wenqi Huang, Zicheng Wang, Jiaxuan Hou, Peng Li, Lei Bai, "senseflow: a physics-informed and self-ensembling iterative framework for power flow estimation", *arXiv preprint arXiv:[2505.12302](https://arxiv.org/abs/2505.12302)* (2025).
+
 - Sifan Long, Linbin Wang, **Zhen Zhao**, Zichang Tan, Yiming Wu, Shengsheng Wang $\dagger$, and Jingdong Wang $\dagger$. "Training-Free Unsupervised Prompt for Vision-Language Models." *arXiv preprint arXiv:[2404.16339](https://arxiv.org/abs/2404.16339)* (2024).
-- **Zhen Zhao**, Ye Liu, Meng Zhao, Di Yin, Yixuan Yuan, and Luping Zhou  $\dagger$. "Rethinking Data Perturbation and Model Stabilization for Semi-supervised Medical Image Segmentation." *arXiv preprint arXiv:[2308.11903](https://arxiv.org/abs/2308.11903)* (2023).
+
 - Zicheng Wang, **Zhen Zhao**, Erjian Guo, and Luping Zhou $\dagger$. "Clean Label Disentangling for Medical Image Segmentation with Noisy Labels." *arXiv preprint arXiv:[2311.16580](https://arxiv.org/abs/2311.16580)* (2023).
 
 
 ## 2026
-
+- **Zhen Zhao**, Wenqi Huang, Zicheng Wang, Jiaxuan Hou, Peng Li, Lei Bai $\dagger$, "senseflow: a physics-informed and self-ensembling iterative framework for power flow estimation", arXiv:[2505.12302](https://arxiv.org/abs/2505.12302), CIKM Full Research, 2026.
+- **Zhen Zhao**, Ziyang Ding, Linjian Meng and Lei Bai $\dagger$, "Q-Flow: Power-Balance-Aware Graph Learning for Power Flow Calculation with Partially Observed Reactive Power",	CIKM Full Research, 2026
+- **Zhen Zhao**, Sizhe Zhang, Meng Zhao, Luping Zhou, Yiming Wu $\dagger$. "Disagreement and Beyond: Boosting Semi-supervised Medical Image Segmentation with Data Perturbation and Model Stabilization" arXiv:[2308.11903](https://arxiv.org/abs/2308.11903), WAICA, 2026
 - Wenqi Huang, Bo Zhao, Yihang Liu, Qiaoqiao Li, Jiaxuan Hou, Rui Su, **Zhen Zhao** $\dagger$，"Power System Operational Risk Assessment and Reasoning Method Based on Large Language Models", 电力系统自动化, 2026.
 - Qinghe Ma, **Zhen Zhao** $\dagger$, Yiming Wu, Jian Zhang, LEI BAI, Yinghuan Shi $\dagger$, Are Tools Always Beneficial? Learning to Invoke Tools Adaptively for Dual-Mode Multimodal LLM Reasoning. Forty-Third International Conference on Machine Learning (ICML), 2026.
 - Lihe Yang, **Zhen Zhao** $\dagger$, Hengshuang Zhao $\dagger$，"SigLIP-HD by Fine-to-Coarse Supervision", International Conference on Learning Representations (ICLR), 2026
