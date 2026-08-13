@@ -10,9 +10,16 @@ author_profile: true
 ## Preprints
 - Ziyang Ding, Linjian Meng, Yiming Wu, Yuhan Li, Yuhao Liu, **Zhen Zhao** $\dagger$, "CoLVR: Enhancing Exploratory Latent Visual Reasoning via Contrastive Optimization", arXiv:[2605.08802](https://arxiv.org/abs/2605.08802) 
 
+- Yuchen Li, Ziru Wei, **Zhen Zhao**, Yi Liu, and Luping Zhou. "Semi-MedRef: Semi-Supervised Medical Referring Image Segmentation with Cross-Modal Alignment." *arXiv preprint arXiv:[2605.15720](https://arxiv.org/abs/2605.15720)* (2026).
+  
 - Sifan Long, Linbin Wang, **Zhen Zhao**, Zichang Tan, Yiming Wu, Shengsheng Wang $\dagger$, and Jingdong Wang $\dagger$. "Training-Free Unsupervised Prompt for Vision-Language Models." *arXiv preprint arXiv:[2404.16339](https://arxiv.org/abs/2404.16339)* (2024).
 
 - Zicheng Wang, **Zhen Zhao**, Erjian Guo, and Luping Zhou $\dagger$. "Clean Label Disentangling for Medical Image Segmentation with Noisy Labels." *arXiv preprint arXiv:[2311.16580](https://arxiv.org/abs/2311.16580)* (2023).
+
+- Zicheng Wang, Zhenghao Chen, Yiming Wu, **Zhen Zhao**, Luping Zhou, and Dong Xu $\dagger$. "PoinTramba: A Hybrid Transformer-Mamba Framework for Point Cloud Analysis." *arXiv preprint arXiv:[2405.15463](https://arxiv.org/abs/2405.15463)* (2024).
+
+- Zicheng Wang, **Zhen Zhao** $\dagger$, Luping Zhou, and Parashkev Nachev $\dagger$. "UniBrain: A Unified Model for Cross-Subject Brain Decoding." *arXiv preprint arXiv:[2412.19487](https://arxiv.org/abs/2412.19487)* (2024).
+
 
 
 ## 2026
